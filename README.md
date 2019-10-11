@@ -1,2 +1,2 @@
 # MyFirstRepository
-For Learing
+For Learning
